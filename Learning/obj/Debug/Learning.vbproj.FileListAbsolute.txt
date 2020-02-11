@@ -1,0 +1,12 @@
+c:\users\student\documents\visual studio 2015\Projects\Learning\Learning\bin\Debug\Learning.exe.config
+c:\users\student\documents\visual studio 2015\Projects\Learning\Learning\bin\Debug\Learning.exe
+c:\users\student\documents\visual studio 2015\Projects\Learning\Learning\bin\Debug\Learning.pdb
+c:\users\student\documents\visual studio 2015\Projects\Learning\Learning\bin\Debug\Learning.xml
+c:\users\student\documents\visual studio 2015\Projects\Learning\Learning\obj\Debug\Learning.vbprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\Learning\Learning\obj\Debug\Learning.Form1.resources
+c:\users\student\documents\visual studio 2015\Projects\Learning\Learning\obj\Debug\Learning.Resources.resources
+c:\users\student\documents\visual studio 2015\Projects\Learning\Learning\obj\Debug\Learning.vbproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2015\Projects\Learning\Learning\obj\Debug\Learning.exe
+c:\users\student\documents\visual studio 2015\Projects\Learning\Learning\obj\Debug\Learning.xml
+c:\users\student\documents\visual studio 2015\Projects\Learning\Learning\obj\Debug\Learning.pdb
+c:\users\student\documents\visual studio 2015\Projects\Learning\Learning\obj\Debug\Learning.Game.resources
